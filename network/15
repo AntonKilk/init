@@ -1,0 +1,3 @@
+# open file /etc/hosts
+# add a line to the end:
+# 46.19.122.85 intra.42.fr

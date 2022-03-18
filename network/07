@@ -1,0 +1,1 @@
+nslookup who.int 8.8.8.8
