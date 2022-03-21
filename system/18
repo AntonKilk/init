@@ -1,0 +1,4 @@
+#1. Find all ssh with 'w'
+#2. Verify using the pstree.
+
+kill <parent pid>

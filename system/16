@@ -1,0 +1,6 @@
+# 1.
+# use 'crontab -e' (man crontab)
+
+# 2.
+# install 'at'  - sudo apt install at
+# use 'at'
