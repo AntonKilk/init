@@ -1,1 +1,4 @@
 sudo service ssh restart
+# or
+sudo systemctl reload ssh
+

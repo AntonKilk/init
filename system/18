@@ -1,4 +1,7 @@
-#1. Find all ssh with 'w'
-#2. Verify using the pstree.
+# Option 1:
+sudo systemctl ssh stop
 
-kill <parent pid>
+# Option 2:
+# 	1. Find all ssh with 'w'
+# 	2. Verify using the pstree -p.
+# 	3. kill <parent_pid>
